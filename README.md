@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет, меня зовут Родион! 👋
 
 <!--
 **Ro200ok/Ro200ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
