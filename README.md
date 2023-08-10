@@ -34,7 +34,7 @@
 
 Git/Gitlab, Docker, Postman Android ADB, Figma, Clean Architecture, MVC, MVVM, MVC, SOLID/DRY/KISS/YAGNI
 
-Flutter: 
+Flutter: Dio, GetX/RxDart, BLOC, Hive, Graphql, Postgressql, Yandex: mapkit, appmetrica, codegen buildrunner, webwiew, unit-tests: Mockito, Mocktail
 
 
 
