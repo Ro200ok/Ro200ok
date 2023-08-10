@@ -32,7 +32,7 @@
   
 </div>
 
---
+---
 
 Git/Gitlab, Docker, Postman, Android ADB, Figma, Clean Architecture, MVC, MVVM, MVC, SOLID/DRY/KISS/YAGNI
 
